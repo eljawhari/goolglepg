@@ -1,0 +1,10 @@
+c:\users\x-killer\documents\visual studio 2012\Projects\generator google play\generator google play\bin\Debug\generator google play.exe.config
+c:\users\x-killer\documents\visual studio 2012\Projects\generator google play\generator google play\bin\Debug\generator google play.exe
+c:\users\x-killer\documents\visual studio 2012\Projects\generator google play\generator google play\bin\Debug\generator google play.pdb
+c:\users\x-killer\documents\visual studio 2012\Projects\generator google play\generator google play\bin\Debug\generator google play.xml
+c:\users\x-killer\documents\visual studio 2012\Projects\generator google play\generator google play\obj\Debug\generator_google_play.Form1.resources
+c:\users\x-killer\documents\visual studio 2012\Projects\generator google play\generator google play\obj\Debug\generator_google_play.Resources.resources
+c:\users\x-killer\documents\visual studio 2012\Projects\generator google play\generator google play\obj\Debug\generator google play.vbproj.GenerateResource.Cache
+c:\users\x-killer\documents\visual studio 2012\Projects\generator google play\generator google play\obj\Debug\generator google play.exe
+c:\users\x-killer\documents\visual studio 2012\Projects\generator google play\generator google play\obj\Debug\generator google play.xml
+c:\users\x-killer\documents\visual studio 2012\Projects\generator google play\generator google play\obj\Debug\generator google play.pdb
